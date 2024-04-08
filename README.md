@@ -17,6 +17,7 @@
     
 3. **Define the Project Schematic**:
 We then decided to take advantage of this working system to hack it and shape it to our intentions, as you can see from the following workflow schematic:
+    ![](Gallery/GAIA10.jpg)
 
 ## **Step 2: Hacking**
 
